@@ -2,7 +2,11 @@
 
 In the following note, I describe the design and building process for an automatic
 switch. This means a switch with the capability to synchronize with Google, Alexa, and
-other virtual assistants.
+other virtual assistants. I also include a YT playlist with main demostrations.
+
+Pictures:
+![Principal](https://github.com/AlanAmaro13/Automatic_Switch/blob/main/Imagenes/1.jpeg)
+![Frontal](https://github.com/AlanAmaro13/Automatic_Switch/blob/main/Imagenes/Frontal.jpeg)
 
 ## Table of Contents
 
