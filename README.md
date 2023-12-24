@@ -5,8 +5,8 @@ switch. This means a switch with the capability to synchronize with Google, Alex
 other virtual assistants. I also include a YT playlist with main demostrations.
 
 Pictures:
-![Principal](https://github.com/AlanAmaro13/Automatic_Switch/blob/main/Imagenes/1.jpeg)
-![Frontal](https://github.com/AlanAmaro13/Automatic_Switch/blob/main/Imagenes/Frontal.jpeg)
+![Principal](https://github.com/AlanAmaro13/Automatic_Switch/blob/main/Imagenes/1.jpeg){width=50%}
+![Frontal](https://github.com/AlanAmaro13/Automatic_Switch/blob/main/Imagenes/Frontal.jpeg){width=50%}
 
 ## Table of Contents
 
