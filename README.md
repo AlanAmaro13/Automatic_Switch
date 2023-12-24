@@ -1,12 +1,11 @@
-# Project: Automatic Switch for a Bedroom
+# Project: Automatic Switch for a Bedroom using ESP32
 
 In the following note, I describe the design and building process for an automatic
-switch. This means a switch with the capability to synchronize with Google, Alexa, and
+switch using an ESP32 C3 (Mini). This means a switch with the capability to synchronize with Google, Alexa, and
 other virtual assistants. I also include a YT playlist with main demostrations.
 
-Pictures:
-![Principal](https://github.com/AlanAmaro13/Automatic_Switch/blob/main/Imagenes/1.jpeg){width=50%}
-![Frontal](https://github.com/AlanAmaro13/Automatic_Switch/blob/main/Imagenes/Frontal.jpeg){width=50%}
+<img src="https://github.com/AlanAmaro13/Automatic_Switch/blob/main/Imagenes/1.jpeg" alt="Principal" style="width:30%;">
+<img src="https://github.com/AlanAmaro13/Automatic_Switch/blob/main/Imagenes/Frontal.jpeg" alt="Principal" style="width:30%;">
 
 ## Table of Contents
 
@@ -65,14 +64,11 @@ determined times you decide.
 
 I've also done a series of videos showing its main funcionating in:
 
-Google Home:
-https://youtu.be/XFvWho0PaZE 
+[YT - Google Home](https://youtu.be/XFvWho0PaZE) 
 
-Virtual Assitance:
-https://youtu.be/HTCfevFzbOc 
+[YT - Virtual Assistance](https://youtu.be/HTCfevFzbOc) 
 
-Switches:
-https://youtu.be/oVQGTzcmvcI 
+[YT - Switches](https://youtu.be/oVQGTzcmvcI) 
 
 
 ## Contributing
